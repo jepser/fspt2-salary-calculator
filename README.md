@@ -1,0 +1,1 @@
+# fspt2-salary-calculator
